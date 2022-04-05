@@ -1,0 +1,13 @@
+.calculator {
+    width: fit-content;
+    padding: 20px;
+    text-align: center;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
